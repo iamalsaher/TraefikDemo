@@ -1,2 +1,2 @@
 # TraefikDemo
-A POC to run Traefik for dyniamic registration of services
+A POC to run Traefik for dyinamic registration of services
